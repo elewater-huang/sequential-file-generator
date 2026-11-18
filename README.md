@@ -100,8 +100,6 @@ The *contents are identical* to the source; **only filenames change**.
 - `SequentialFileGenerator.bat` — bilingual batch utility / 中英雙語批次工具。
 - `README.md` — bilingual documentation / 中英文說明。
 - `TEST_CASES.md` — suggested verification cases / 建議驗證項目。
-- `POSTS/LinkedIn_Post.md` — bilingual LinkedIn draft / LinkedIn 中英雙語貼文。
-- `POSTS/Facebook_Post.md` — bilingual Facebook draft / Facebook 中英雙語貼文。
 
 ## License | 授權
 
